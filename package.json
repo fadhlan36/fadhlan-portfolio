@@ -24,7 +24,7 @@
     "web-vitals": "^2.1.4"
   },
   "overrides": {
-    "react-reconciler": "^0.27.0"
+    "react-reconciler": "0.26.2"
   },
   "scripts": {
     "start": "react-scripts start",
