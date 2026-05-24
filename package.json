@@ -24,7 +24,10 @@
     "web-vitals": "^2.1.4"
   },
   "overrides": {
-    "react-reconciler": "0.26.2"
+    "react-reconciler": "0.26.2",
+    "react-parallax-tilt": {
+    "react": "$react"
+  }
   },
   "scripts": {
     "start": "react-scripts start",
