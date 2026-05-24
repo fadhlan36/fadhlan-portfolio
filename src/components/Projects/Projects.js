@@ -28,8 +28,8 @@ function Projects() {
               isBlog={false}
               title="Talka"
               description="A full-featured social media platform engineered for seamless story sharing."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              ghLink="https://github.com/fadhlan36/talka"
+              demoLink="https://talka-talk.vercel.app/"
             />
           </Col>
 
@@ -39,8 +39,8 @@ function Projects() {
               isBlog={false}
               title="Jourdy — Your Journal Buddy"
               description="A smart digital journaling web app featuring AI-powered mood detection and personalized 7-day emotional insights."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              ghLink="https://github.com/fadhlan36/jourdy"
+              demoLink="https://jourdy.vercel.app"
             />
           </Col>
 
@@ -50,8 +50,8 @@ function Projects() {
               isBlog={false}
               title="Brick Store"
               description="An e-commerce platform dedicated to LEGO enthusiasts, offering a wide selection of sets and exclusive products."
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              ghLink="https://github.com/fadhlan36/BrickStore"
+              demoLink="https://brick-store-kappa.vercel.app"              
             />
           </Col>
 
@@ -61,8 +61,8 @@ function Projects() {
               isBlog={false}
               title="Taskify"
               description="A Trello-inspired visual project management platform engineered with interactive Kanban workflows."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              ghLink="https://github.com/fadhlan36/taskify"
+              demoLink="https://taskify-task-seven.vercel.app"
             />
           </Col>
 
@@ -72,8 +72,8 @@ function Projects() {
               isBlog={false}
               title="Xtation Studio"
               description="An online reservation web platform for musicians to search, view, and book music studios in real time."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
+              ghLink="https://github.com/fadhlan36/xtation-studio"
+              demoLink="https://www.xtation.my.id"
             />
           </Col>
 
