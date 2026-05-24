@@ -76,7 +76,7 @@ function Techstack() {
         <div className="tech-icons-text">Postman</div>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiPrisma fontSize={"24px"} color="#2D3748" />
+        <SiPrisma fontSize={"24px"} color="#ffffff" />
         <div className="tech-icons-text">Prisma</div>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
